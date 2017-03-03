@@ -4,3 +4,5 @@ This will be the file we modify
 Hello, Arthur!
 
 This stuff is great!!
+
+I will add this to arthur-child
